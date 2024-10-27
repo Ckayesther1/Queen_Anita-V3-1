@@ -10,7 +10,7 @@ global.location = "Nigeria, Lagos" //ur location
 //new
 global.botname = 'QUEEN_ANITA-V3' //ur bot name
 global.ownernumber = ' ' //ur owner number
-global.ownername = "DAVID CYRIL"  //ur owner name
+global.ownername = "C_ķãý"  //ur owner name
 global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
 global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
 global.themeemoji = '👸'
@@ -18,9 +18,9 @@ global.wm = "DAVID CYRIL TECH"
 global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
 global.packname = "STICKER BY"
 global.author = "QUEEN_ANITA-V3"
-global.creator = "2347043759577@s.whatsapp.net"
+global.creator = "2348069016472@s.whatsapp.net"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["2348069016472"] // Premium User
 global.hituet = 0
 
 //bot sett
